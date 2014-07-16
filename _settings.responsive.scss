@@ -15,3 +15,11 @@ $breakpoints: (
     "desk"          "screen and (min-width: 1024px)"
     "retina"        "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)"
 ) !default;
+
+
+
+
+
+// If we have included this file, set a variable to tell the rest of the
+// framework that we have some responsive settings.
+$inuit-responsive-settings: true;
