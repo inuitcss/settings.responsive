@@ -12,7 +12,7 @@ $breakpoints: (
     "lap"           "screen and (min-width: 720px) and (max-width: 1023px)",
     "lap-and-up"    "screen and (min-width: 720px)",
     "portable"      "screen and (max-width: 1023px)",
-    "desk"          "screen and (min-width: 1024px)"
+    "desk"          "screen and (min-width: 1024px)",
     "retina"        "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)"
 ) !default;
 
